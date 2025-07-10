@@ -1,4 +1,6 @@
-News Extractor and Summarizer
+**News Extractor and Summarizer**
+
+
 News Extractor and Summarizer is a Python-based web application that extracts and summarizes news articles. The application uses several Python libraries including NewsAPI, newspaper3k, spacy, requests, Pegasus from Hugging Face, and a T5 model from Hugging Face's model hub mrm8488 to classify news articles into different categories (e.g. business, health, science, entertainment). It also includes a graph-based summary feature that uses similarity to summarize multiple documents from topic clusters of CSV. The app is designed to work with news articles in any language supported by NewsAPI.
 
 Installation
