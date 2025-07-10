@@ -26,6 +26,9 @@ cache_dir/
 
 These directories will be used by the Hugging Face Transformers library to cache the pre-trained models and tokenizers.
 
+<img width="978" height="376" alt="image" src="https://github.com/user-attachments/assets/197b7553-f510-4feb-b033-d1dc16c4bd57" />
+
+
 To complete the setup, please follow these steps:
 
   - Go to https://huggingface.co/google/pegasus-xsum and download the file 'pytorch_model.bin'.
